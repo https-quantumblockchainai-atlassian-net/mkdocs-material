@@ -92,7 +92,7 @@
     "rimraf": "^4.0.7",
     "sass": "^1.57.1",
     "simple-icons": "^8.2.0",
-    "stylelint": "^14.16.1",
+    "stylelint": "^16.10.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-recommended": "^9.0.0",
     "stylelint-config-standard-scss": "^6.1.0",
